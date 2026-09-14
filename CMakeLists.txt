@@ -11,6 +11,6 @@ list(APPEND CMAKE_PREFIX_PATH
 
 find_package(SFML 3 REQUIRED COMPONENTS Graphics)
 
-add_executable(green_circle main.cpp)
+add_executable(app main.cpp)
 
-target_link_libraries(green_circle PRIVATE SFML::Graphics)
+target_link_libraries(app PRIVATE SFML::Graphics)
