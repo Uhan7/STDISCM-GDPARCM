@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/uhan/Desktop/Codings/C++/STDISCM_GDPARCM/build-new",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/uhan/Desktop/Codings/C++/STDISCM_GDPARCM/SFML-3.0.2/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -o CMakeFiles/green_circle.dir/main.cpp.o -c /Users/uhan/Desktop/Codings/C++/STDISCM_GDPARCM/main.cpp",
+  "file": "/Users/uhan/Desktop/Codings/C++/STDISCM_GDPARCM/main.cpp",
+  "output": "CMakeFiles/green_circle.dir/main.cpp.o"
+}
+]
